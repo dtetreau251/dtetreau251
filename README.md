@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-dev.to icon   twitter icon   linkedin icon
+
 
 My name is David. I'm a Front End Web Developer from Gulf Shores, AL.
 
