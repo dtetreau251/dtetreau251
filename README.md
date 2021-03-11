@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **getting coffee :coffee:**
 
-- 📫 How to reach me **david_tetreau@yahoo.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/david-t-464baa129/](https://www.linkedin.com/in/david-t-464baa129/)
 
 - ⚡ Fun fact **I think I'm funny, but my kids don't**
