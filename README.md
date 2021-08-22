@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [#VetsWhoCode Curriculum](https://github.com/Vets-Who-Code/Curriculum)
 
-- 🌱 I’m currently learning **HTML5, CSS3, Javascript, JAMstack, Data Visualization, Data Science, Cyber Security, and Internet of Things(IoT)**
+- 🌱 I’m currently learning **HTML5, CSS3, Javascript, JAMstack, Data Visualization, Data Science, Cyber Security, Python, and Internet of Things(IoT)**
 
 - 💬 Ask me about **getting coffee :coffee:**
 
