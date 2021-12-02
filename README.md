@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/david_tetreau" target="blank"><img src="https://img.shields.io/twitter/follow/david_tetreau?logo=twitter&style=for-the-badge" alt="david_tetreau" /></a> </p>
 
-- 🔭 I’m currently working on [PCAP: Programming Essentials in Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python)
+- 🔭 I’m currently working on [Code Platoon](https://www.codeplatoon.org/)
 
 - 🌱 I’m currently learning **JavaScript, React, & Python**
 
