@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I am a JavaScript Developer.</h3>
+<h3 align="center">I am a Front End Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtetreau251&label=Profile%20views&color=0e75b6&style=flat" alt="dtetreau251" /> </p>
 
