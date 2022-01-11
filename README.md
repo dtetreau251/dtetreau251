@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I am a Front End Developer.</h3>
+<h3 align="center">I am a Developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dtetreau251" alt="dtetreau251" /></a> </p>
 
