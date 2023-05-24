@@ -5,28 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dtetreau251" alt="dtetreau251" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/david_tetreau" target="blank"><img src="https://img.shields.io/twitter/follow/david_tetreau?logo=twitter&style=for-the-badge" alt="david_tetreau" /></a> </p>
 
-- 🔭 I’m currently working on [Code Platoon](https://www.codeplatoon.org/the-program/course-curriculum/)
+
+- 🔭 I’m currently working on IACIS CFCE
 
 - 🌱 I’m currently learning **JavaScript, React, Python, Django, SQL**
 
-- 📝 I have written articles on [https://dev.to/dtetreau/](https://dev.to/dtetreau/)
-
 - 💬 Ask me about **Getting coffee**
-
-- 📫 How to reach me **Twitter: @david_tetreau**
 
 - ⚡ Fun fact **I think I'm funny, but my kids don't**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dtetreau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dtetreau" height="30" width="40" /></a>
-<a href="https://twitter.com/david_tetreau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="david_tetreau" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tetreau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tetreau" height="30" width="40" /></a>
 </p>
 
